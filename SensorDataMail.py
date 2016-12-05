@@ -51,4 +51,3 @@ while True:
     ser.sendmail('sender@gmail.com','receiver@gmail.com',msg)
     print('Mail Sent')   
 GPIO.cleanup()
-    
